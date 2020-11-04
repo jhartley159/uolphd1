@@ -1,1 +1,2 @@
-# uolphd1
+# UoLPhD
+Stuff to get to know how to use Github
